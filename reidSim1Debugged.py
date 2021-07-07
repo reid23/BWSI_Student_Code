@@ -11,7 +11,7 @@ os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame  # noqa
 
 # The time step of the simulation. 60Hz is chosen to work well on most displays that are 60Hz.
-DT_SEC = 1 / 3.0
+DT_SEC = 1 / 60.0
 
 # The visualizer may be sped up or slowed down (CPU cycles permitting)
 VISUALIZER_RATES = [
