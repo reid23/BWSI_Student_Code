@@ -1,0 +1,17 @@
+/home/user/catkin_ws/install/_setup_util.py
+/home/user/catkin_ws/install/env.sh
+/home/user/catkin_ws/install/setup.bash
+/home/user/catkin_ws/install/local_setup.bash
+/home/user/catkin_ws/install/setup.sh
+/home/user/catkin_ws/install/local_setup.sh
+/home/user/catkin_ws/install/setup.zsh
+/home/user/catkin_ws/install/local_setup.zsh
+/home/user/catkin_ws/install/.rosinstall
+/home/user/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/user/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/user/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/user/catkin_ws/install/share/beginner_tutorials/package.xml
+/home/user/catkin_ws/install/lib/pkgconfig/move_bb8_pkg.pc
+/home/user/catkin_ws/install/share/move_bb8_pkg/cmake/move_bb8_pkgConfig.cmake
+/home/user/catkin_ws/install/share/move_bb8_pkg/cmake/move_bb8_pkgConfig-version.cmake
+/home/user/catkin_ws/install/share/move_bb8_pkg/package.xml
